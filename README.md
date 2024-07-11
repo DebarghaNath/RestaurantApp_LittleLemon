@@ -12,6 +12,10 @@ Cross-Platform Compatibility: Developed with React Native, the app runs smoothly
 
 This project aims to enhance the restaurant's digital presence, offering customers an intuitive and responsive way to explore the menu and place orders.
 
+Enhanced User Experience: Utilizes core React Native components to provide better user experience and navigation options.
+
+Image Slider: Includes a slider to showcase images of the restaurant, enhancing visual appeal and user engagement
+
 IMAGES:
 
 <img width="447" alt="Screenshot 2024-07-11 at 11 55 21 AM" src="https://github.com/user-attachments/assets/9a21190e-182e-4661-9a89-a3272799e8b2">
